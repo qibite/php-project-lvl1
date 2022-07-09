@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "First project from hexlet",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dolzhenko Alexey"
+        }
+    ],
+    "require": {},
+    "bin": [
+      "bin/brain-games"
+    ]
+}
